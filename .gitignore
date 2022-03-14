@@ -2,4 +2,4 @@
 project/env/
 __pycache__/
 project/.coverage
-htmlcov
+project/htmlcov
